@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+.num-button {
+  background-color: rgb(54, 53, 53);
+  height:50px;
+  width:50px;
+  padding:8px;
+  color:white;
+  font-family: arial;
+  /*font-weight: bold;*/
+  font-size:18px;
+  border-radius: 25px;
+  border: none;
+  margin-right: 4px;
+  cursor:pointer;
+}
+.clear-button {
+  font-size: 13px;
+}
+
+.operator-button {
+  background-color: rgba(255, 190, 24, 0.934);
+  color:white;
+  padding:8px;
+  height:50px;
+  width:50px;
+  border:none;
+  border-radius: 25px;
+  font-size: 18px;
+  cursor:pointer;
+}
+
+.calculation-total {
+  font-size: 40px;
+  color:white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
